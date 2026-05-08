@@ -11,10 +11,14 @@
             "id": "c4c6baa7c6d2709b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2026-05-07-Copilot.md",
+                "mode": "source",
+                "source": true
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "2026-05-07-Copilot"
             }
           }
         ]
@@ -179,6 +183,7 @@
   "active": "c4c6baa7c6d2709b",
   "lastOpenFiles": [
     "_posts/2025-12-31-Steal-My-10-Word-New-Years-Resolution.md",
+    "_posts/2026-05-07-Copilot.md",
     "_tabs/about.md",
     "_site/assets/img/ChicagoChampagne.JPG",
     "assets/img/ChicagoChampagne.JPG",
